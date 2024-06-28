@@ -3,6 +3,6 @@ Segment Studio is an application that allows users to send in batches of image f
 
 Project Installation: https://pypi.org/project/segment-studio/
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=8qPp8fIiIsI&ab_channel=Shanmu" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Segment-Studio](https://img.youtube.com/vi/8qPp8fIiIsI/0.jpg)](https://www.youtube.com/watch?v=8qPp8fIiIsI)
 
 Please e-mail me for any questions at: shanmubuisness@gmail.com
